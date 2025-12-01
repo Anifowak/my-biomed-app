@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 My Biomed App Starter Kit 
 ```
 ⬆️ (Replace above with your app's name)
 ```
