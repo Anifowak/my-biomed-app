@@ -5,9 +5,9 @@
 
 Description of the app ...
 
-## Demo App
+## App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![My Biomed App](https://my-biomed-app-eqsamgu3kzqtqwwt9hrhwt.streamlit.app/)
 
 ## GitHub Codespaces
 
