@@ -1,7 +1,8 @@
 # 📦 My Biomed App Starter Kit 
 
-Description of the app
-...
+## Description of the app
+
+
 
 ## Patient Intake and Clinical Analytics Dashboard
 
@@ -22,17 +23,17 @@ Age distribution (histogram)
 correlation heatmaps
 Scatter plots for Age vs Blood Pressure
 
-...
+
 
 Interactive and User-Friendly: Built with Streamlit and Plotly for easy visualization, interactivity, and real-time data updates.
-...
+
 
 # Tech Stack 
 Python
 Streamlit
 Plotly
 
-...
+
 
 ## App
 
